@@ -1,0 +1,10 @@
+h1{
+   text-align: center; 
+}
+
+@media screen and (max-width:550px){
+    .div{
+        background-color: rgb(255, 216, 62);
+        color:rgb(185, 22, 49);
+    }
+}
